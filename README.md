@@ -1,4 +1,6 @@
-I completed this project through a Natural Language Processing course on Udemy as part of my journey in learning more about machine learning and AI as a computer science student in college. The course is by Lazy Programmer Inc. and can be found in the link below:
+<h1>NLP Poem Classifier Project</h1>
+I completed this project through a Natural Language Processing course on Udemy as part of my journey in learning more about machine learning and AI as a computer science student in college. The course was created by Lazy Programmer Inc. and can be found in the link below:
+
 https://www.udemy.com/course/data-science-natural-language-processing-in-python/
 
 This project is a classifier that uses Markov Models to classify whether a poem is written by Edgar Allan Poe or Robert Frost. The steps taken to build the classifier are as follows:
